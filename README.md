@@ -7,3 +7,5 @@ You can read more about the RaDVaC organization, as well as their whitepaper abo
 
 Project RadVax is not affiliated with RaDVaC, but does build upon their work.  All of the documents within all of the repositories in this account are licensed under 
 [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
+
+You can reach us via email, at project_radvax@protonmail.com
